@@ -591,7 +591,7 @@ StEntry:focus {
 
 /* Show Apps icon */
 .show-apps .overview-icon {
-	color: rgba(73, 76, 79, 1);
+	color: rgba(255,255,255, 1);
 }
 
 /* folders */
